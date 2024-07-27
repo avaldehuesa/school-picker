@@ -2,4 +2,3 @@
 This helps students choose a school.\
 It's great for decision making.\
 \
-Now one can decide
